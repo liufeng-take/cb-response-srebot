@@ -1,4 +1,4 @@
-require 'lita-cb-response-embedded'
+require 'lib/lita-cb-response-embedded'
 
 Lita.configure do |config|
   # The name your robot will use.
